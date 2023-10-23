@@ -1,0 +1,284 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300&display=swap');
+
+
+body {
+    background-color: rgb(188, 118, 207);
+    display: flex-start;
+    justify-content: flex-start;
+    align-items: flex-start;
+    height: 90vh;
+    font-family: 'Montserrat', sans-serif;
+}
+
+div{
+    border: 10px groove #211CA4;
+    margin: 50px;
+}
+
+div#father1{
+    width: 100%;
+    max-width: 700px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px 1px black;
+    background-color: white;
+}
+
+
+div#name1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 1px 3px 10px 10px black;
+}
+
+div#content1 {
+    display: inline-block;
+    grid-template-columns: 10% 25%;
+}
+
+div#photo1 {
+    margin: 10px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 1px 3px 10px 10px black;
+}
+
+img#personPhoto1 {
+    /* La imagen usara el 100% del espacio disponible del contenedor*/
+    width: 100%; 
+    border-radius: 10px;
+    box-shadow: 1px 1px 15px 3px black;
+}
+
+div#description1 {
+    padding: 10px;
+    box-shadow: 1px 1px 10px 8px black;
+}
+ 
+
+
+div#father2{
+    width: 100%;
+    max-width: 700px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px 1px red;
+    background-color: white;
+}
+
+
+div#name2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 1px 3px 10px 10px red;
+}
+
+div#content2 {
+    display: inline-block;
+    grid-template-columns: 10% 25%;
+}
+
+div#photo2 {
+    margin: 10px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 1px 3px 10px 10px red;
+}
+
+img#personPhoto2 {
+    /* La imagen usara el 100% del espacio disponible del contenedor*/
+    width: 100%; 
+    border-radius: 10px;
+    box-shadow: 1px 1px 15px 3px red;
+}
+
+div#description2 {
+    padding: 10px;
+    box-shadow: 1px 1px 10px 8px red;
+}
+
+
+
+div#father3{
+    width: 100%;
+    max-width: 700px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px 1px blue;
+    background-color: white;
+}
+
+
+div#name3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 1px 3px 10px 10px blue;
+}
+
+div#content3 {
+    display: inline-block;
+    grid-template-columns: 10% 25%;
+}
+
+div#photo3 {
+    margin: 10px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 1px 3px 10px 10px blue;
+}
+
+img#personPhoto3 {
+    /* La imagen usara el 100% del espacio disponible del contenedor*/
+    width: 100%; 
+    border-radius: 10px;
+    box-shadow: 1px 1px 15px 3px blue;
+}
+
+div#description3 {
+    padding: 10px;
+    box-shadow: 1px 1px 10px 8px blue;
+}
+
+
+
+div#father4{
+    width: 100%;
+    max-width: 700px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px 1px gold;
+    background-color: white;
+}
+
+
+div#name4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 1px 3px 10px 10px gold;
+}
+
+div#content4 {
+    display: inline-block;
+    grid-template-columns: 10% 25%;
+}
+
+div#photo4 {
+    margin: 10px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 1px 3px 10px 10px gold;
+}
+
+img#personPhoto4 {
+    /* La imagen usara el 100% del espacio disponible del contenedor*/
+    width: 100%; 
+    border-radius: 10px;
+    box-shadow: 1px 1px 15px 3px gold;
+}
+
+div#description4 {
+    padding: 10px;
+    box-shadow: 1px 1px 10px 8px gold;
+}
+
+
+
+div#father5{
+    width: 100%;
+    max-width: 700px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px 1px darkgreen;
+    background-color: white;
+}
+
+
+div#name5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 1px 3px 10px 10px darkgreen;
+}
+
+div#content5 {
+    display: inline-block;
+    grid-template-columns: 10% 25%;
+}
+
+div#photo5 {
+    margin: 10px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 1px 3px 10px 10px darkgreen;
+}
+
+img#personPhoto5 {
+    /* La imagen usara el 100% del espacio disponible del contenedor*/
+    width: 100%; 
+    border-radius: 10px;
+    box-shadow: 1px 1px 15px 3px darkgreen;
+}
+
+div#description5 {
+    padding: 10px;
+    box-shadow: 1px 1px 10px 8px darkgreen;
+}
+
+
+
+div#father6{
+    width: 100%;
+    max-width: 700px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px 1px yellowgreen;
+    background-color: white;
+}
+
+
+div#name6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 1px 3px 10px 10px yellowgreen;
+}
+
+div#content6 {
+    display: inline-block;
+    grid-template-columns: 10% 25%;
+}
+
+div#photo6 {
+    margin: 10px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 1px 3px 10px 10px yellowgreen;
+}
+
+img#personPhoto6 {
+    /* La imagen usara el 100% del espacio disponible del contenedor*/
+    width: 100%; 
+    border-radius: 10px;
+    box-shadow: 1px 1px 15px 3px yellowgreen;
+}
+
+div#description6 {
+    padding: 10px;
+    box-shadow: 1px 1px 10px 8px yellowgreen;
+}
